@@ -31,5 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmohanjha&show_icons=true&locale=en&layout=compact" alt="ayushmohanjha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmohanjha&show_icons=true&locale=en" alt="ayushmohanjha" /></p>
-<p><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script></p>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<p><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ayushmohanjha"><a class="LI-simple-link" href='https://in.linkedin.com/in/ayushmohanjha?trk=profile-badge'>Ayush Mohan Jha</a></div></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmohanjha&" alt="ayushmohanjha" /></p>
