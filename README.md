@@ -31,5 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmohanjha&show_icons=true&locale=en&layout=compact" alt="ayushmohanjha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmohanjha&show_icons=true&locale=en" alt="ayushmohanjha" /></p>
-
+<p><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmohanjha&" alt="ayushmohanjha" /></p>
