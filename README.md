@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmohanjha&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmohanjha" /> </p>
-<p align="center"> <img src="https://drive.google.com/file/d/1UBNIGB6vXyHg4DoueWatw6WVuqIpj93u/view?usp=sharing" alt="ayushmohanjha" /> </p>
+<p align="center"> <img src="https://photos.app.goo.gl/x5CH5mafrLpwxSgs5" alt="ayushmohanjha" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushmohanjha" alt="ayushmohanjha" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js**
